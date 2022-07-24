@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.musawakiliml.tech"><img width="80%" alt="Hello, I'm Musa Wakili ML" src="./images/Github Profile banner.png" /></a></p>
+<p align="center"><a href="https://www.musawakiliml.tech"><img width="80%" alt="Hello, I'm Musa Wakili ML" src="./images/Github Profile banner (1).png" /></a></p>
 
 ### <samp>&gt; Hi there, I'm <a href="https:musawakiliml.tech" target="_blank">Musa Adamu Wakili</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
