@@ -49,5 +49,10 @@ I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https:
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=musawakiliML&show_icons=true&line_height=21&theme=react" alt="Musawakili Ml's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats-topaz-eta-50.vercel.app/api?username=musawakiliML&show_icons=true&theme=cobalt" alt="Musawakili Ml's Github Stats" />
+</p>
+<br/>
+
+<p align="center">
+<img width="350" align="left" src="https://github-readme-stats-topaz-eta-50.vercel.app/api/top-langs/?username=musawakiliML&layout=compact" alt="Musawakili Ml's Github Language" />
 </p>
