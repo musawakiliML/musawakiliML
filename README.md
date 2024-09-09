@@ -9,7 +9,7 @@
 ---
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** majoring in Computer Science. I'm a **Python Backend Developer 💻 😃** with experience in **Machine Learning**, **Devops** and **Product Management**. I'm passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I write on my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.tech/)**. Read my developer journey on **[@ Medium Blog](https://musawakiliml.me/)** <br/><br/>
+I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** majoring in Computer Science. I'm a **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **Devops**. I'm passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I write on my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.tech/)**. Read my developer journey on **[@ Medium Blog](https://musawakiliml.me/)** <br/><br/>
 
 ---
 
@@ -27,14 +27,18 @@ I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https:
 - 📙 Check out my [Resume](https://www.linkedin.com/in/musa-adamu-wakili-711704154/)
 - 🎉 Fun-Fact: I ❤️ Reading Sci-Fi and Building Bots and watch a lot Sci-Fi Movies 🎬
 ---
+
 ### 🖥️ My DevSetup
+
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=for-the-badge&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 
-## 🧑‍💻 Languages
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+## 🧑‍💻 Working Language
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 ### ⚙️ Tools and Tech I Use
+
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 "> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white">
 
