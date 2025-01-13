@@ -8,13 +8,13 @@
 
 ### 📬 Find Me at
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/musawakiliML/)](https://github.com/musawakiliML/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musa-adamu-wakili-711704154/)](https://www.linkedin.com/in/musa-adamu-wakili-711704154/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://musawakiliml.tech/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/musawakiliML) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://musawakiliml.me/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://musawakiliml.tech/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/musawakiliML/)](https://github.com/musawakiliML/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musa-adamu-wakili-711704154/)](https://www.linkedin.com/in/musa-adamu-wakili-711704154/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=x&logoColor=white)](https://x.com/musawakiliML) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/essentialist-developer) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://musawakiliml.tech/)
 
 ---
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** majoring in Computer Science. I'm a **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **Devops**. I'm passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I write on my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.tech/)**. Read my developer journey on **[@ Medium Blog](https://musawakiliml.me/)** <br/><br/>
+I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** majoring in Computer Science. I'm a **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **Devops**. I'm passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I write on my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.tech/)**. Read my developer journey on **[@ Medium Blog](https://medium.com/essentialist-developer)** <br/> <br/>
 
 ---
 
@@ -25,6 +25,7 @@ I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https:
   - 📊 Machine Learning & Data Science
   - 💻 Backend Development
   - 🛠 DIY Devops/ML Projects
+  - 🤖 LLMs and AI Agents
   - 🤖 Telegram Bots
 - 📝 I write technical blogs and articles
 - 🧑‍💻 I'm looking to collaborate on making software projects with Django and FastAPI based on AI.
