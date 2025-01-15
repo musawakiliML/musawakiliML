@@ -14,19 +14,21 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** majoring in Computer Science. I'm a **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **Devops**. I'm passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. I write on my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.tech/)**. Read my developer journey on **[@ Medium Blog](https://medium.com/essentialist-developer)** <br/> <br/>
+I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** majoring in Computer Science. A **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **Devops**. I'm passionate about learning and working with new tech. I love building interesting open source projects and amazing products that serve a great deal of purpose. I write on my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.tech/)**. Read my developer journey on **[@ Medium Blog](https://medium.com/essentialist-developer)** <br/> <br/>
 
 ---
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a **Product Manager/Python Developer** **[@ Perfect Timing Technologies LTD](https://www.ptt.technology/)**
+- 🔭 I'm currently working as a **Product Manager/Python Developer** **[@ Mind Colony LTD](https://www.mindcolony.tech/)**
+
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Machine Learning & Data Science
   - 💻 Backend Development
   - 🛠 DIY Devops/ML Projects
   - 🤖 LLMs and AI Agents
   - 🤖 Telegram Bots
+  - 🧑‍💻 Open Source Projects
 - 📝 I write technical blogs and articles
 - 🧑‍💻 I'm looking to collaborate on making software projects with Django and FastAPI based on AI.
 - 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Django, FastAPI, DevOps
@@ -41,8 +43,7 @@ I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https:
 
 ## 🧑‍💻 Working Language
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/Go-3670A0?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/Go-3670A0?style=for-the-badge&logo=go&logoColor=white">
 
 ### ⚙️ Tools and Tech I Use
 
