@@ -27,11 +27,11 @@ I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https:
   - 💻 Backend Development
   - 🛠 DIY Devops/ML Projects
   - 🤖 LLMs and AI Agents
-  - 🤖 Telegram Bots
+  - 🤖 Telegram/Whatsapp/Discord/Slack Bots
   - 🧑‍💻 Open Source Projects
 - 📝 I write technical blogs and articles
 - 🧑‍💻 I'm looking to collaborate on making software projects with Django and FastAPI based on AI.
-- 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Django, FastAPI, DevOps
+- 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Django, FastAPI, DevOps, Golang
 - 📙 Check out my [Resume](https://www.linkedin.com/in/musa-adamu-wakili-711704154/)
 - 🎉 Fun-Fact: I ❤️ Reading Sci-Fi and Building Bots and watch a lot Sci-Fi Movies 🎬
 
