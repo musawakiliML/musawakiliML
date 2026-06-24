@@ -1,6 +1,6 @@
-<p align="center"> <a href="https://www.musawakiliml.tech">
+<!-- <p align="center"> <a href="https://www.musawakiliml.tech">
 <img width="80%" alt="Hello, I'm Musa Wakili ML" src="./images/Github Profile banner (1).png" />
-</a></p>
+</a></p> -->
 
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Hello!, I am <a href="https://www.musawakiliml.tech">Musa Wakili ML</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
@@ -14,13 +14,13 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** majoring in Computer Science. A **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **Devops**. I'm passionate about learning and working with new tech. I love building interesting open source projects and amazing products that serve a great deal of purpose. I write on my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.tech/)**. Read my developer journey on **[@ Medium Blog](https://medium.com/essentialist-developer)** <br/> <br/>
+I'm a **Lecturer 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** Department of Artificial Intelligence. A **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **DevOps**. I'm passionate about learning and working with new tech. I love building interesting open source projects and amazing products that serve a great deal of purpose. I write about my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.blog/)**. Read my developer journey on **[@ Medium Blog](https://medium.com/essentialist-developer)** <br/> <br/>
 
 ---
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I'm currently working as a **Product Manager/Python Developer** **[@ Mind Colony LTD](https://www.mindcolony.tech/)**
+- 🔭 I'm currently working as a **Machine Learning Engineer** **[@ Mind Colony LTD](https://www.mindcolony.tech/)**
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
   - 📊 Machine Learning & Data Science
@@ -33,7 +33,7 @@ I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https:
 - 🧑‍💻 I'm looking to collaborate on making software projects with Django and FastAPI based on AI.
 - 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Django, FastAPI, DevOps, Golang
 - 📙 Check out my [Resume](https://www.linkedin.com/in/musa-adamu-wakili-711704154/)
-- 🎉 Fun-Fact: I ❤️ Reading Sci-Fi and Building Bots and watch a lot Sci-Fi Movies 🎬
+- 🎉 Fun-Fact: I ❤️ Reading Sci-Fi and Building Bots and watching a lot of Sci-Fi Movies 🎬
 
 ---
 
@@ -59,7 +59,9 @@ I'm a **Grad Student 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https:
 
 ### 💻 IDEs/Editors
 
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"> <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=v&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> 
+<!-- <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">  -->
+<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=v&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 
 ### 🚀 Quick Stats
 
