@@ -65,10 +65,8 @@ I'm a **Lecturer 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://ww
 
 ### 🚀 Quick Stats
 
-<p align="center">
-<img width="450" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=musawakiliML" alt="Musawakili Ml's Github Stats" />
-</p>
+![musawakiliml's Streak](https://github-readme-streak-stats.herokuapp.com/?user=musawakiliml&theme=vue-dark&hide_border=true)
 
-<p align="center">
-<img width="350" align="left" src="https://activity-graph.herokuapp.com/graph?username=musawakiliML&theme=github" alt="Musawakili Ml's Github Language" />
-</p>
+![musawakiliml's Stats](https://github-readme-stats.vercel.app/api?username=musawakiliml&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![musawakiliml's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musawakiliml&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
