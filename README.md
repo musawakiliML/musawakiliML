@@ -1,72 +1,253 @@
-<!-- <p align="center"> <a href="https://www.musawakiliml.tech">
-<img width="80%" alt="Hello, I'm Musa Wakili ML" src="./images/Github Profile banner (1).png" />
-</a></p> -->
+<!-- ![Musa Wakili — Scientific ML, Distributed Acoustic Sensing, Volcanology and Open Source](./images/musa-wakili-research-banner.png) -->
 
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Hello!, I am <a href="https://www.musawakiliml.tech">Musa Wakili ML</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+<p align="center">
+  <img
+    src="./images/musa-wakili-research-banner.png"
+    alt="Musa Wakili — Scientific ML, Distributed Acoustic Sensing, Volcanology and Open Source"
+    width="100%"
+  />
+</p>
 
-### 📬 Find Me at
+<div align="center"><strong>Research Engineer · PhD Researcher · Open-Source Builder</strong></div>
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/musawakiliML/)](https://github.com/musawakiliML/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/musa-adamu-wakili-711704154/)](https://www.linkedin.com/in/musa-adamu-wakili-711704154/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=x&logoColor=white)](https://x.com/musawakiliML) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/essentialist-developer) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://musawakiliml.tech/)
+<p align="center">
+  <em>Scientific ML · Distributed Acoustic Sensing · Volcanology · Open Source</em>
+</p>
 
----
+<p align="center">
+  <strong>Build to learn. Build to solve.</strong>
+</p>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+I build **machine learning systems, scientific computing tools, and open-source software** for problems where data, computation, and the real world meet.
 
-I'm a **Lecturer 🎓 [@ Abubabakar Tafawa Balewa University, Bauchi](https://www.atbu.edu.ng/)** Department of Artificial Intelligence. A **Python Backend Developer 💻 😃** with experience in **Machine Learning**, and **DevOps**. I'm passionate about learning and working with new tech. I love building interesting open source projects and amazing products that serve a great deal of purpose. I write about my experience and projects on **[@ Musa Wakili ML](https://musawakiliml.blog/)**. Read my developer journey on **[@ Medium Blog](https://medium.com/essentialist-developer)** <br/> <br/>
+I'm currently pursuing a **PhD at the University of Canterbury, New Zealand**, researching **Distributed Acoustic Sensing (DAS) for volcanic monitoring and eruption forecasting**.
 
----
+My broader interests sit at the intersection of:
 
-## ⚡️ A Few Quick Facts
+**Scientific ML · Machine Learning · Signal Processing · Computer Vision · Backend Engineering · Research Software · Open Source**.
 
-- 🔭 I'm currently working as a **Machine Learning Engineer** **[@ Mind Colony LTD](https://www.mindcolony.tech/)**
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on:
-  - 📊 Machine Learning & Data Science
-  - 💻 Backend Development
-  - 🛠 DIY Devops/ML Projects
-  - 🤖 LLMs and AI Agents
-  - 🤖 Telegram/Whatsapp/Discord/Slack Bots
-  - 🧑‍💻 Open Source Projects
-- 📝 I write technical blogs and articles
-- 🧑‍💻 I'm looking to collaborate on making software projects with Django and FastAPI based on AI.
-- 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Django, FastAPI, DevOps, Golang
-- 📙 Check out my [Resume](https://www.linkedin.com/in/musa-adamu-wakili-711704154/)
-- 🎉 Fun-Fact: I ❤️ Reading Sci-Fi and Building Bots and watching a lot of Sci-Fi Movies 🎬
+> **Build to learn. Build things that matter.**
 
 ---
 
-### 🖥️ My DevSetup
+<!-- ## 🔬 What I'm Working On
 
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=for-the-badge&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+My current research focuses on using **Distributed Acoustic Sensing (DAS)** to understand seismic and volcanic processes.
 
-## 🧑‍💻 Working Language
+I'm particularly interested in building the computational infrastructure needed to make massive DAS datasets easier to:
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/Go-3670A0?style=for-the-badge&logo=go&logoColor=white">
+- ⚡ Load and process efficiently
+- 🧠 Analyse with machine learning
+- 📊 Visualise and explore
+- 🔬 Reproduce scientifically
+- 🌋 Apply to volcano and geothermal monitoring
 
-### ⚙️ Tools and Tech I Use
+I'm also exploring the intersection of **computer vision, signal processing, and scientific machine learning** for DAS data. -->
 
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> <img src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
-"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white">
+### 🧰 Current Projects
 
-### ☁️ Cloud/DevOps Technologies I Use
+<!-- **DAS FastLoad**  
+A high-performance data-loading layer for large DAS datasets, with a focus on efficient scientific workflows.
 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"> <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515"> <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-"> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
-"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white
-"> <img src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white">
+**OpenDAS Toolkit**  
+A longer-term vision for an open-source ecosystem that makes DAS data science more accessible to researchers and ML practitioners. -->
 
-### 💻 IDEs/Editors
+**Awesome DAS**  
+A curated knowledge base of DAS papers, datasets, software, tutorials, and research resources.
 
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> 
-<!-- <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">  -->
-<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=v&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+**Research Knowledge Base**  
+A living collection of notes, experiments, implementations, papers, and technical concepts from my PhD journey.
 
-### 🚀 Quick Stats
+---
 
-![musawakiliml's Streak](https://github-readme-streak-stats.herokuapp.com/?user=musawakiliml&theme=vue-dark&hide_border=true)
+<!-- ## 🧠 My Research Interests
 
-![musawakiliml's Stats](https://github-readme-stats.vercel.app/api?username=musawakiliml&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+```text
+Scientific Machine Learning
+        │
+        ├── Distributed Acoustic Sensing
+        │       ├── Signal Processing
+        │       ├── Seismic Monitoring
+        │       └── Volcano Monitoring
+        │
+        ├── Computer Vision
+        ├── Deep Learning
+        ├── Representation Learning
+        ├── Time-Series Analysis
+        └── Large-Scale Scientific Data
+```
 
-![musawakiliml's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musawakiliml&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+I'm particularly interested in problems where **machine learning meets physical systems**.
+
+--- -->
+
+## 🛠️ What I Like Building
+
+I enjoy building tools rather than only running experiments.
+
+Some areas I frequently work in:
+
+- 🤖 Machine Learning & Deep Learning
+- 🔬 Scientific Computing
+- 📡 Signal & Time-Series Processing
+- 👁️ Computer Vision
+- 🧠 AI Systems & LLMs
+- ⚙️ Backend Systems & APIs
+- 🚀 Developer & Research Tooling
+- 📦 Python Libraries
+- 🐹 Go for performance-oriented tooling
+- ☁️ Cloud & Infrastructure
+- 🔄 Automation & Data Pipelines
+- 🌍 Open-Source Software
+
+---
+
+## 💻 Technical Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Machine Learning & Scientific Python
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Research & Knowledge Tools
+
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📚 Research & Learning
+
+I maintain an open research notebook where I document:
+
+- 📄 Paper summaries
+- 🧪 Experiments
+- 💡 Research ideas
+- 🧑🏽‍💻 Implementations
+- 📊 Dataset investigations
+- 📚 Technical book notes
+- 🔬 DAS concepts
+- 🌋 Volcanology & geophysics
+- 🧠 Machine learning concepts
+
+The goal is simple:
+
+> **Learn in public, build reproducibly, and leave useful artifacts behind.**
+
+---
+
+## 🌍 Open Source
+
+I believe research software should be treated as **software**, not disposable code.
+
+I'm interested in building open-source tools that make scientific datasets easier to work with and help researchers spend less time fighting infrastructure.
+
+If you're working on:
+
+- DAS
+- scientific ML
+- seismic data
+- signal processing
+- research software
+- ML infrastructure
+- open-source scientific tooling
+
+I'd love to hear from you.
+
+---
+
+## ✍🏽 Writing
+
+I write about things I'm learning, building, and investigating.
+
+### Essentialist Programmer
+
+**Software engineering · Python · AI · backend systems · lessons from building**.
+<!-- [Read my writing →](https://medium.com/essentialist-developer) -->
+[Read my writing →](https://musawakiliml.blog/)
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm particularly interested in collaborating on projects involving:
+
+- 🔬 Scientific Machine Learning
+- 📡 Distributed Acoustic Sensing
+- 🌋 Volcanology & Geophysics
+- 🤖 AI/ML systems
+- 🐍 Python tooling
+- 🐹 Go-based scientific software
+- 📦 Open-source libraries
+- ⚙️ Research infrastructure
+- 🌍 Open science
+
+If you're building something interesting, feel free to reach out.
+
+---
+
+## 📬 Find Me Online
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musawakiliML)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-adamu-wakili-711704154/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://YOUR_HASHNODE_USERNAME.hashnode.dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/musawakiliML)
+<!-- [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/essentialist-developer) -->
+
+---
+
+<!-- ## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musawakiliML&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musawakiliML&layout=compact&hide_border=true" height="170"/>
+</p>
+
+--- -->
+
+<!-- ### 🧭 Current Direction
+
+```text
+Machine Learning
+       ↓
+Scientific Machine Learning
+       ↓
+Distributed Acoustic Sensing
+       ↓
+Volcano & Seismic Monitoring
+       ↓
+Open-Source Research Infrastructure
+``` -->
+
+**Build to learn. Build to solve. Build in public.**
